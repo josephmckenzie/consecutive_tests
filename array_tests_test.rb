@@ -7,5 +7,11 @@ def test_first_array_has_no_repeated_values
   results=array_tests
   assert_equal(nil, results)
 end
+
+def test_2nd_array_has_has_no_repeating_values
+results= array_tests
+assert_equal(nil, results)
+end
+
 end
 
